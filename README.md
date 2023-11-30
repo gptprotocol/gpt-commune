@@ -6,11 +6,6 @@ By embracing an unopinionated approach, Commune acknowledges the diverse needs a
 
 The overarching goal of Commune is to create a collaborative ecosystem where developers can easily share, connect, and extend their tools, ultimately fostering innovation and efficiency within the development community. By providing a network that encourages openness and accessibility, Commune empowers developers to leverage the collective knowledge and resources of the community to enhance their own projects.
 
-## Socials
-
-- Twitter: [@communeaidotorg](https://twitter.com/communeaidotorg)
-- Discord: [commune.ai](https://discord.gg/DgjvQXvhqf)
-- Website: Comming Soon
 
 ## Setup
 
